@@ -1,4 +1,16 @@
 p, li {
     font-size: 18px;
     line-height: 1.5;
+    font-family: 'Source Sans Pro', 'Regular 400';
+}
+h1 {
+    font-family: 'Peralta', 'Regular 400';
+}
+html{
+    background-color: #E0DAB6;
+    padding-bottom: 40px;
+}
+body{
+    margin: 25;
+    padding-bottom: 5px;
 }
